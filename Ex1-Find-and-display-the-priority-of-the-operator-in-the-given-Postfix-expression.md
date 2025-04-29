@@ -82,9 +82,6 @@ return 0;
 
 
 
-## Result:
-
-Thus the C program to find and display the priority of the operator in the given Postfix expression is implemented successfully.
 
 ## Result:
 Thus the C program to find and display the priority of the operator in the given Postfix expression is implemented successfully
