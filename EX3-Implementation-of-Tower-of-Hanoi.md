@@ -17,8 +17,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: 
-RegisterNumber:  
+Developed by: Zafreen J
+RegisterNumber: 212223040252 
 */
 ```
 
